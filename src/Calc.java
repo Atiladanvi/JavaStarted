@@ -31,4 +31,8 @@ class Calc {
         return (a+b);
     }
 
+    static Double sqrt(Double a){
+        return Math.sqrt(a);
+    }
+
 }
