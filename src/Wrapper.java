@@ -1,3 +1,14 @@
+/*
+ * Author: Atila Silva
+ * Email: atila.danvi@outlook.com
+ * Project: JavaStarted
+ * Class name: Wrapper
+ * made at 17/2/2019
+ * Copyright (c) 2019.
+ */
+
+@SuppressWarnings("SameParameterValue")
+
 class Wrapper {
     /**
      * Print value

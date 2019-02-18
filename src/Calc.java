@@ -1,10 +1,10 @@
 /*
- *  Author: Atila Silva
- *  Email: atila.danvi@outlook.com
- *  Project: Janela Única
- *  Class name: Calc
- *  made at 15/2/2019
- *  Copyright (c) 2019.
+ * Author: Atila Silva
+ * Email: atila.danvi@outlook.com
+ * Project: JavaStarted
+ * Class name: Calc
+ * made at 16/2/2019
+ * Copyright (c) 2019.
  */
 
 @SuppressWarnings("SameParameterValue")
